@@ -13,7 +13,7 @@ def index():
         'env': os.environ.get('ENV_VAR', 'Cannot find variable ENV_VAR') 
     }
 
-    return ret
+    return 
 
 
 if __name__ == "__main__":
